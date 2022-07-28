@@ -1,0 +1,8 @@
+#include "FIXME/ff22/martini_v2.2.itp"
+#include "FIXME/ff22/martini_v2.0_lipids_all_201506.itp"
+#include "FIXME/ff22/martini_v2.0_solvents.itp"
+
+[ system ]
+Random system equilibration
+
+[ molecules ]
