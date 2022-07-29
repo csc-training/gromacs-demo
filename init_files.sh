@@ -1,6 +1,7 @@
 #!/bin/bash
 
-if [ ${#} -ne 4 ]
+# Require four input arguments and integer number of molecules
+if [[ ${#} != 4 ]] || [[ $2 =~ [^0-9] ]] || [[ $4 =~ [^0-9] ]]
 then
     echo "Input error!"
     echo "Usage: bash init_files.sh <lipid-name> <num-lipid-mols> <solvent-name> <num-solvent-mols>"

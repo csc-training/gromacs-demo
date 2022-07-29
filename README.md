@@ -20,3 +20,4 @@ The notebook uses the `gromacs/2021.5` module installed on Puhti, as well as
 * matplotlib 3.5.2
 * numpy 1.23.1
 * ipywidgets 7.7.1
+* notebook 6.4.12
