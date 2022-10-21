@@ -24,3 +24,6 @@ sed "s|ADDINDEXGROUPS|$1 $3|g" template/md.mdp > md.mdp
 echo "Success! Initialized topology and input files (topol.top, em.mdp, md.mdp)"
 echo "Lipid:   $1 ($2 molecules)"
 echo "Solvent: $3 ($4 molecules)"
+
+# Unset also all Slurm environment variables to enable parallel orterun later
+unset ${!SLURM@}
