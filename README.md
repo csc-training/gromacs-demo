@@ -12,7 +12,7 @@ Source files for GROMACS tutorial notebook: Lipid self-assembly with CG Martini 
     affects the performance
 * Launch the notebook and follow the instructions
 
-The notebook uses the `gromacs/2021.5` module installed on Puhti, as well as
+The notebook uses the `gromacs/2022.2` module installed on Puhti, as well as
 
 * Python 3.10.5
 * MDAnalysis 2.2.0
