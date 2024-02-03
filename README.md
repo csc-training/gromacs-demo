@@ -6,7 +6,7 @@ coarse-grained Martini force field.
 ## How to run
 
 * Login to [Puhti](https://www.puhti.csc.fi) or
-  [Mahti web interface](https://www.puhti.csc.fi) and select
+  [Mahti web interface](https://www.mahti.csc.fi) and select
   *Jupyter for courses*.
 * Course module name is `gromacs-demo-[en|fi]`, select either along with
   appropriate computational resources.
