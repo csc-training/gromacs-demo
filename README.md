@@ -1,4 +1,4 @@
-# gromacs-martini-demo
+# GROMACS demo notebook
 
 Source files for GROMACS tutorial notebook: Lipid self-assembly using
 coarse-grained Martini force field.
