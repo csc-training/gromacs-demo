@@ -10,7 +10,7 @@ coarse-grained Martini force field.
   *Jupyter for courses*.
 * Course module name is `gromacs-demo-[en|fi]`, select either along with
   appropriate computational resources.
-  * `en` for English verson, `fi` for Finnish.
+  * `en` for English version, `fi` for Finnish.
   * Not much memory is needed, but selecting multiple cores is informative to
     see how parallelization affects the performance.
 * Launch the notebook and follow the instructions.
