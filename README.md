@@ -15,4 +15,4 @@ coarse-grained Martini force field.
      to see how parallelization affects the performance.
 4. Launch the notebook and follow the instructions.
 
-The notebook uses the dependencies listed in [`def.yml`](def.yml).
+The notebook uses the dependencies listed in [`def.yml`](env/def.yml).
