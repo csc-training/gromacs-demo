@@ -1,0 +1,5 @@
+cores: 4
+time: "01:00:00"
+partition: "interactive"
+local_disk: 0
+mem: "4GB"
